@@ -108,6 +108,7 @@
 					usePopupCaption: true,
 					usePopupDefaultStyling: false,
 					usePopupEasyClose: false,
+					usePopupCloser: true,
 					windowMargin: (breakpoints.active('<=small') ? 0 : 50)
 				});
 
