@@ -2904,7 +2904,7 @@ input, select, textarea {
 			text-align: center;
 			top: 0;
 			width: 4em;
-			z-index: 2;
+			z-index: 1500;
 		}
 
 			.poptrox-popup .closer:before {
